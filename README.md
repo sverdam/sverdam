@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sverdam
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Python, C++ and HTML/CSS
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning C++, HTML/CSS/JavaScript
 - 📫 How to reach me: sverdugoam@gmail.com
 - 😄 Pronouns: she/her
 
