@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sverdam&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sverdam&layout=compact&langs_count=4&theme=dark)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,figma,cpp,react,vite)](https://skillicons.dev)
